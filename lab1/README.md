@@ -1,3 +1,9 @@
+# Questions
+
+In method: most_ordered_items
+
+The assertion solution is not correct
+
 # Lab 1
 
 Basic data manipulation using Pandas and Numpy libraries.
