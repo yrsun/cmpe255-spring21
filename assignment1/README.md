@@ -2,6 +2,22 @@
 
 In this assigment, you will be building models to predict house prices using the [Boston housing dataset](https://www.kaggle.com/vikrishnan/boston-house-prices).
 
+# Output:
+
+Q1 LSTAT:
+RMSE = 6.1724146152405135
+R2 = 0.4886979007906852
+Q2 2 LSTAT:
+RMSE = 5.61957012958762
+R2 = 0.5761876727750421
+Q2 20 LSTAT:
+RMSE = 26.999119619888152
+R2 = -8.782877153252805
+Q3 LSTAT RM PTRATIO:
+RMSE = 5.100216850500207
+R2 = 0.650904156861472
+Adjusted_R2 = 0.6438278897708262
+
 ## I - Linear Regression
 
 * Build a model using a linear regression (Scikit-learn) algorithm to predict house prices. You can pick a feature from the dataset to work with the model.
